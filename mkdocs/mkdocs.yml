@@ -5,7 +5,7 @@ nav:
   - Getting Started: 
       - Get To Know Your Data: 'know_data.md'
       - Get To Know The Module: 'know_module.md'
-  - Help: help.md
+  - Help: Help.md
       
 theme: 
   name: material
