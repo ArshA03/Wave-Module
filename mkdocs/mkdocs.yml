@@ -1,0 +1,22 @@
+site_name: Wave Module
+nav:
+  - Overview: overview.md
+  - Installation: installation.md
+  - Getting Started: 
+      - Get To Know Your Data: 'know_data.md'
+      - Get To Know The Module: 'know_module.md'
+  - Help: help.md
+      
+theme: 
+  name: material
+
+markdown_extensions:
+    - footnotes
+    - attr_list
+    - pymdownx.arithmatex:
+        generic: true
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
