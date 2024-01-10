@@ -1,6 +1,6 @@
 # Installation
 
-The only way to use this module is by cloning it from its [github repository](https://github.com/ArshA03/Wave_Module.git). If you have previous knowledge of [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) you can skip this part.
+The only way to use this module is by cloning it from its [github repository](https://github.com/ArshA03/Wave-Module). If you have previous knowledge of [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) you can skip this part.
 
 ## Cloning Github Repo
 
